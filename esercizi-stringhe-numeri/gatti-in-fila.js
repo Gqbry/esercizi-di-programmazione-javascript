@@ -16,4 +16,4 @@
   utilizza Math.ceil (arrotonda sempre all'intero superiore).
 
   http://www.imparareaprogrammare.it
-*/
+*/var cats = 44;
